@@ -1,0 +1,10 @@
+{
+  "name": "AntimatterDanmakuSystem",
+  "version": "1.0.0",
+  "api": 4,
+  "description": "GoliGoliTV Danmaku Server System",
+  "author": "GoliGoliTV Team",
+  "main": "GoliGoliTV\\AntimatterDanmakuSystem\\AntimatterDanmakuSystem",
+  "order": 0,
+  "website": "https://github.com/GoliGoliTV/AntimatterDanmakuSystem"
+}
